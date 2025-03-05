@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+
+This website is intended for a customer "Empire Solicitor" for digital marketing and branding
+
+
 First, run the development server:
 
 ```bash
